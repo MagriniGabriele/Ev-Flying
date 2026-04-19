@@ -16,7 +16,7 @@
 Official repository for "EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects".
 It includes **train** and **test** splits with zipped subfolders for each sequence.
 
-The full dataset it available for download on the official [HuggingFace page](https://huggingface.co/datasets/GabrieleMagrini/Ev-Flying)🤗.
+<!-- The full dataset it available for download on the official [HuggingFace page](https://huggingface.co/datasets/GabrieleMagrini/Ev-Flying)🤗. -->
 
 
 <!-- **Demos and examples** can be found in the official [website](https://magrinigabriele.github.io/Ev-Flying/). -->
@@ -42,7 +42,6 @@ Ev-Flying/
 ```
 
 Each folder corresponds to one sequence (event data and annotations).
-The files on HuggingFace contains only insects and birds, to also incorporate drone you can do so by downloading and adding this extract from the [FRED](https://huggingface.co/datasets/GabrieleMagrini/FRED/blob/main/train/183.zip) dataset.
 
 ---
 
@@ -76,7 +75,7 @@ This structure is compatible with standard detection and tracking pipelines, whi
 
 
 ### Clone the entire dataset
-```bash
+<!-- ```bash
 git lfs install
 git clone https://huggingface.co/datasets/GabrieleMagrini/Ev-Flying
 ```
@@ -94,7 +93,7 @@ train_set = load_dataset("GabrieleMagrini/Ev-Flying", split="train")
 test_set  = load_dataset("GabrieleMagrini/Ev-Flying", split="test")
 ```
 
-Demos and examples can be found in the official [website](https://magrinigabriele.github.io/Ev-Flying/)
+Demos and examples can be found in the official [website](https://magrinigabriele.github.io/Ev-Flying/) -->
 
 
 ---
