@@ -104,24 +104,24 @@ Demos and examples can be found in the official [website](https://magrinigabriel
 <div align="center">
   <h1 style="font-size: 2rem; margin-bottom: 1rem; color: #fff;">Insect</h1>
   <p>
-    <img src="https://github.com/miccunifi/Ev-Flying/blob/main/static/videos/video_10_id_31_class_2.webp?raw=true" width="45%" />
-    <img src="https://github.com/miccunifi/Ev-Flying/blob/main/static/videos/video_26_id_72_class_2.webp?raw=true" width="45%" />
+    <img src="https://github.com/MagriniGabriele/Ev-Flying/blob/main/static/videos/video_10_id_31_class_2.webp?raw=true" width="45%" />
+    <img src="https://github.com/MagriniGabriele/Ev-Flying/blob/main/static/videos/video_26_id_72_class_2.webp?raw=true" width="45%" />
   </p>
 </div>
 
 <div align="center">
   <h1 style="font-size: 2rem; margin-bottom: 1rem; color: #fff;">Bird</h1>
   <p>
-    <img src="https://github.com/miccunifi/Ev-Flying/blob/main/static/videos/video_27_id_45_class_1.webp?raw=true" width="45%" />
-    <img src="https://github.com/miccunifi/Ev-Flying/blob/main/static/videos/video_27_id_70_class_1.webp?raw=true" width="45%" />
+    <img src="https://github.com/MagriniGabriele/Ev-Flying/blob/main/static/videos/video_27_id_45_class_1.webp?raw=true" width="45%" />
+    <img src="https://github.com/MagriniGabriele/Ev-Flying/blob/main/static/videos/video_27_id_70_class_1.webp?raw=true" width="45%" />
   </p>
 </div>
 
 <div align="center">
   <h1 style="font-size: 2rem; margin-bottom: 1rem; color: #fff;">Drone</h1>
   <p>
-    <img src="https://github.com/miccunifi/Ev-Flying/blob/main/static/videos/video_drone_id_3_class_3.webp?raw=true" width="45%" />
-    <img src="https://github.com/miccunifi/Ev-Flying/blob/main/static/videos/video_drone_id_0_class_3.webp?raw=true" width="45%" />
+    <img src="https://github.com/MagriniGabriele/Ev-Flying/blob/main/static/videos/video_drone_id_3_class_3.webp?raw=true" width="45%" />
+    <img src="https://github.com/MagriniGabriele/Ev-Flying/blob/main/static/videos/video_drone_id_0_class_3.webp?raw=true" width="45%" />
   </p>
 </div>
 
