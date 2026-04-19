@@ -43,6 +43,7 @@ Ev-Flying/
 
 Each folder corresponds to one sequence (event data and annotations).
 The files on HuggingFace contains only insects and birds, to also incorporate drone you can do so by downloading and adding this extract from the [FRED](https://huggingface.co/datasets/GabrieleMagrini/FRED/blob/main/train/183.zip) dataset.
+
 ---
 
 ## 📝 Annotation Format
