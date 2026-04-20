@@ -94,7 +94,7 @@ train_set = load_dataset("GabrieleMagrini/Ev-Flying", split="train")
 test_set  = load_dataset("GabrieleMagrini/Ev-Flying", split="test")
 ```
 
-The files on HuggingFace contains only insects and birds, to also incorporate drone you can do so by downloading and adding [this](https://drive.google.com/file/d/1FV2XcBMb_AlAFptK0OPDCFJ1eWh0zd7F/view?usp=sharing) extract from the FRED dataset containing 2 additional 2 minutes long drone labeled videos as used in the paper.
+The files on HuggingFace contains only insects and birds, to also incorporate drone you can do so by downloading and adding [this](https://drive.google.com/file/d/11cnvgj-xjwWyKlFElfo7fHwi03LnEmr3/view?usp=drive_link) extract from the FRED dataset containing 2 additional 2 minutes long drone labeled videos as used in the paper.
 Simply download the zip folder and extract it in the same position of the already donwloaded EvFlying folder. 
 
 Demos and examples can be found in the official [website](https://magrinigabriele.github.io/Ev-Flying/)
