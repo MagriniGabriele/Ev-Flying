@@ -2,7 +2,7 @@
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2506.05163-b31b1b.svg)](https://arxiv.org/abs/2506.04048)
-[![paper](https://img.shields.io/badge/Paper-CVPRw2025-brightgreen.svg)](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/papers/Magrini_EV-Flying_an_Event-based_Dataset_for_In-The-Wild_Recognition_of_Flying_Objects_CVPRW_2025_paper.pdf)
+[![paper](https://img.shields.io/badge/Paper-CVPRw2025-blue.svg)](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/papers/Magrini_EV-Flying_an_Event-based_Dataset_for_In-The-Wild_Recognition_of_Flying_Objects_CVPRW_2025_paper.pdf)
 [![huggingface](https://img.shields.io/badge/dataset-Huggingface-yellow.svg)](https://huggingface.co/datasets/GabrieleMagrini/Ev-Flying/)
 [![survey](https://img.shields.io/badge/DroneDetectionSurvey-ICCVw2025-brightgreen.svg)](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/papers/Magrini_Drone_Detection_with_Event_Cameras_ICCVW_2025_paper.pdf)
 
