@@ -1,9 +1,9 @@
-# FRED: The Florence RGB-Event Drone Dataset
+# EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2506.05163-b31b1b.svg)](https://arxiv.org/abs/2506.04048)
 [![paper](https://img.shields.io/badge/paper-ACMMM2025-blue.svg)](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/papers/Magrini_EV-Flying_an_Event-based_Dataset_for_In-The-Wild_Recognition_of_Flying_Objects_CVPRW_2025_paper.pdf)
-[![huggingface](https://img.shields.io/badge/dataset-Huggingface-yellow.svg)](https://huggingface.co/datasets/GabrieleMagrini/Ev-Flying/tree/main/Test/13)
+[![huggingface](https://img.shields.io/badge/dataset-Huggingface-yellow.svg)](https://huggingface.co/datasets/GabrieleMagrini/Ev-Flying/)
 [![survey](https://img.shields.io/badge/DroneDetectionSurvey-CVPRw2025-brightgreen.svg)](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/papers/Magrini_Drone_Detection_with_Event_Cameras_ICCVW_2025_paper.pdf)
 
 <div align="center">
@@ -16,10 +16,10 @@
 Official repository for "EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects".
 It includes **train** and **test** splits with zipped subfolders for each sequence.
 
-<!-- The full dataset it available for download on the official [HuggingFace page](https://huggingface.co/datasets/GabrieleMagrini/Ev-Flying)🤗. -->
+The full dataset it available for download on the official [HuggingFace page](https://huggingface.co/datasets/GabrieleMagrini/Ev-Flying)🤗.
 
 
-<!-- **Demos and examples** can be found in the official [website](https://magrinigabriele.github.io/Ev-Flying/). -->
+**Demos and examples** can be found in the official [website](https://magrinigabriele.github.io/Ev-Flying/).
 
 
 ---
@@ -42,6 +42,7 @@ Ev-Flying/
 ```
 
 Each folder corresponds to one sequence (event data and annotations).
+
 
 ---
 
@@ -75,7 +76,7 @@ This structure is compatible with standard detection and tracking pipelines, whi
 
 
 ### Clone the entire dataset
-<!-- ```bash
+```bash
 git lfs install
 git clone https://huggingface.co/datasets/GabrieleMagrini/Ev-Flying
 ```
@@ -93,7 +94,10 @@ train_set = load_dataset("GabrieleMagrini/Ev-Flying", split="train")
 test_set  = load_dataset("GabrieleMagrini/Ev-Flying", split="test")
 ```
 
-Demos and examples can be found in the official [website](https://magrinigabriele.github.io/Ev-Flying/) -->
+The files on HuggingFace contains only insects and birds, to also incorporate drone you can do so by downloading and adding [this](https://drive.google.com/file/d/1FV2XcBMb_AlAFptK0OPDCFJ1eWh0zd7F/view?usp=sharing) extract from the FRED dataset containing 2 additional 2 minutes long drone labeled videos as used in the paper.
+Simply download the zip folder and extract it in the same position of the already donwloaded EvFlying folder. 
+
+Demos and examples can be found in the official [website](https://magrinigabriele.github.io/Ev-Flying/)
 
 
 ---
