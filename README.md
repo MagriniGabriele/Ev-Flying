@@ -21,6 +21,9 @@ The full dataset it available for download on the official [HuggingFace page](ht
 
 **Demos and examples** can be found in the official [website](https://magrinigabriele.github.io/Ev-Flying/).
 
+### Also check out FRED, our newly released multimodal drone dataset with challenging scenarios, for additional flying object data!
+You can find it here: https://github.com/miccunifi/FRED
+
 
 ---
 
